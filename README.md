@@ -48,15 +48,8 @@ The bot is designed for educational and development purposes
 
 License
 MIT License
-
 ---
 
-This version:  
-
-- Explains the project clearly  
-- Shows tech stack  
-- Gives step-by-step setup instructions  
-- Mentions security best practices (Vault, `.env`)  
-- Looks professional for LinkedIn and GitHub  
+ 
 
 
